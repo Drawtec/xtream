@@ -251,9 +251,9 @@
 <addon id="repository.michaz" name="Michaz Repository" provider-name="Michaz" version="5.0">
 	<extension point="xbmc.addon.repository" name="Michaz Repository">
 		<dir>
-			<info compressed="false">https://github.com/Drawtec/xtream/tree/main/repo/addons.xml</info>
-			<checksum>https://github.com/Drawtec/xtream/tree/main/repo/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/Drawtec/xtream/tree/main/repo/</datadir>
+			<info compressed="false">https://github.com/Drawtec/xtream/repo/addons.xml</info>
+			<checksum>https://github.com/Drawtec/xtream/repo/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/Drawtec/xtream/repo/</datadir>
 		</dir>
 			<dir minversion="19.0.0" maxversion="19.9.0">
 			<info compressed="false">https://raw.github.com/kaffepausse71/SKINBASE19/master/addons.xml</info>
