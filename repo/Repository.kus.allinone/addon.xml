@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="kodi-unlimited-support Repository" name="kodi-unlimited-support Repository" version="1.0.0" provider-name="kodi-unlimited-support.de">
+    <extension point="xmbc.addon.repository">
+        <dir>
+            <info>https://kodi-unlimited-support.de/repo/</info>
+            <datadir zip="true">https://kodi-unlimited-support.de/repo/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Kodi Unlimited Support</summary>
+        <description>Repository von Kodi Unlimited Support und Abhängigkeiten.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>kus-banner.jpg</icon>
+            <fanart>kus-banner.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
